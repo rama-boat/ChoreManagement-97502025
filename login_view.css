@@ -1,0 +1,131 @@
+body{
+  background-image:url("new.jpg") ;
+  font-size: 15px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-blend-mode: soft-light;
+  padding-top: 60px;
+  margin-top: 20px;
+  color: grey;
+
+}
+
+.Log{
+  width:460px;
+  height:250px;
+  margin: auto;
+  border-radius: 3px;
+  background-color:white;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 5px;
+  padding-bottom: 60px;
+  border-style: groove;
+  border: transparent;
+
+
+
+}
+
+
+h1{
+  padding-top:15px;
+  text-align: center;
+  text-transform: uppercase;
+  margin:40px 0;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+input[type="button"]{
+     width: 340px; 
+     height: 35px;
+     margin-top: 20px;
+     border: none;
+     background-color: #49c1a2;
+/*     color: white;*/
+     font-size: 18px;
+     margin-left: 20px;
+     margin-bottom: 10px;
+     
+
+}
+ .login {
+     width: 425px; 
+     height: 35px;
+     margin-top: 20px;
+     border-radius:5px;
+     background-color: grey;
+     color: white;
+     font-size: 18px;
+     padding-left: 40px;
+     margin-bottom: 10px;
+     margin-left: 10px;
+     border: transparent;
+
+  
+
+}
+
+input[type="email"] {
+      width: 400px;
+      padding: 10px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 15px;
+      background-color: white;
+      text-align: center;
+
+     
+    }
+
+    input[type="password"] {
+      width: 400px;
+      padding: 10px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 15px;
+      background-color: white;
+      text-align: center;
+
+    }
+
+    input[type="text"] {
+      width: 400px; 
+      padding: 10px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 15px;
+      background-color: white;
+      text-align: center;
+
+     
+    }
+
+    a{
+      text-decoration: none;
+      
+    }
+
+    #sub{
+      color:white;
+      text-decoration: none;
+    }
+
+    #sec{
+      color:black;
+      text-decoration: none;
+    }
+
+    #for{
+      color: white;
+
+    }
+
+    
+
